@@ -1,0 +1,112 @@
+
+.navmenu {
+    width: 100%;
+    margin: 0px auto;
+    display: block;
+    position: relative;
+    background-color: Black;
+}
+
+nav.navmenu ul {
+    list-style: none;
+    position: relative;
+    width: 80%;
+    box-sizing: border-box;
+    background: black;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+nav.navmenu li {
+    display: inline-block;
+    position: relative
+}
+
+nav.navmenu li a {
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #FFF;
+    display: block;
+    box-sizing: border-box;
+}
+
+nav.navmenu li a:hover {
+    background-color: #1789EA
+}
+.b1{
+    border: 5px solid red;
+    height: 30px;
+    background-color: Red;
+    text-align: center;
+}
+.b_1{
+    font-size: 12px;
+    color: white;
+    display: inline-block;
+}
+.b_2{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.b2{
+    border:3px solid black;
+}
+.b3{
+    border: 1px solid black;
+    width: 300px;
+    height: 250px;
+    float: left;
+}
+.c2{
+    visibility: hidden;
+    border:1px solid black;
+    width: 30px;
+    height: 180px;
+    float: left;
+}
+.c2-2{
+    visibility: hidden;
+    border:1px solid black;
+    width: 30px;
+    height: 150px;
+    float: left;
+}
+.c4{
+    visibility: hidden;
+    border:1px solid black;
+    width: 30px;
+    height: 250px;
+    float: right;
+}
+
+.c{
+    visibility: hidden;
+    border: 1px;
+    height: 30px;
+}
+.c3{
+    visibility: hidden;
+    border: 1px solid black;
+    float: top;
+    width: 300px;
+    height: 20px;
+}
+
+img.middle {
+    vertical-align: middle;
+}
+img.relative {
+    position: relative;
+    float: left;
+}
+img.remid {
+    position: relative;
+    float: left;
+    vertical-align: middle;
+}
+.r{
+    visibility: hidden;
+}
+
+
